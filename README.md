@@ -1,2 +1,2 @@
 
-# README for TECHIN 412 - Bopit Game Project implementation
+# README for TECHIN 512 - Bop-it Game Project implementation
